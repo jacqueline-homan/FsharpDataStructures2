@@ -1,0 +1,5 @@
+/home/jacque/Projects/F-sharp/FsharpDataStructures2/FsharpDataStructures2/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/jacque/Projects/F-sharp/FsharpDataStructures2/FsharpDataStructures2/bin/Debug/FsharpDataStructures2.exe.mdb
+/home/jacque/Projects/F-sharp/FsharpDataStructures2/FsharpDataStructures2/bin/Debug/FsharpDataStructures2.exe
+/home/jacque/Projects/F-sharp/FsharpDataStructures2/FsharpDataStructures2/obj/x86/Debug/FsharpDataStructures2.exe
+/home/jacque/Projects/F-sharp/FsharpDataStructures2/FsharpDataStructures2/obj/x86/Debug/FsharpDataStructures2.exe.mdb
